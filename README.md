@@ -1,7 +1,7 @@
 # chat-ui-project-
 
 
-This app is an ui chat application built using flutter by dart programming langue it has the flowing features:
+This app is an ui chat application built using flutter by dart programming language it has the flowing features:
 
 -	It has a scrollable list that contains icon for users available.
 -	Also it has a conversation list that contains the icon of the user and his name, the last massage that last sent , and the time.
